@@ -1,11 +1,5 @@
 ./data/files/*
 
-./data/zip-files/*
-
-./data/log_df.csv
-
-./data/*
-
 ./.vscode/*
 
 ./model/bidirectional_lstm_demo.ipynb
